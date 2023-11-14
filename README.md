@@ -12,16 +12,7 @@ function Greeting() {
 const Greeting = () => {
   return <h2>My First Component</h2>;
 };
-```
-
-- starts with capital letter
-- must return JSX (html)
-- always close tag <Greeting/>
-
-##### Typical Component
-
-```js
-// imports or logic
+``ogic
 
 const Greeting = () => {
   return <h2>My First Component</h2>;
