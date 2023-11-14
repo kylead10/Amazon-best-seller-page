@@ -1690,20 +1690,7 @@ export default App;
   - remove logo.svg
   - App.css
 
-#### Vite Docs
-
-(Vite)[https://vitejs.dev/]
-
-#### Vite Install
-
-```sh
-npm create vite@latest app-name -- --template react
-npm install
-npm run dev
-```
-
-- http://localhost:5173/
-
+#### Vite Doc(Vite)
 #### Vite Setup
 
 - need to use .jsx extension
