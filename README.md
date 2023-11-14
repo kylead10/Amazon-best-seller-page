@@ -1,21 +1,6 @@
 ##### Root Component (only one)
 
-index.js
 
-function Greeting() {
-  return <h2>My First Component</h2>;
-}
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
-
-root.render(<Greeting />);
-```
-
-#### Possible Bug
-
-If for some reason you still have this error in the terminal
-
-```
 Module not found: Error: Can't resolve 'path/index.js'
 ```
 
