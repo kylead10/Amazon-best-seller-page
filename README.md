@@ -1,5 +1,3 @@
-#### React  Remove Boilerpla
-
 ##### Root Component (only one)
 
 index.js
