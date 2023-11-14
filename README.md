@@ -1,14 +1,6 @@
 #### React  Remove Boilerplate
 
 - remove src folder
-- create src folder
-
-  - create index.js inside src
-
-- toggle sidebar CMD + B
-- shortcuts settings/keyboard shortcuts
-
-#### First Component
 
 ```js
 function Greeting() {
