@@ -1,14 +1,4 @@
-#### React  Remove Boilerplate
-
-2>My First Component</h2>;
-};
-``ogic
-
-const Greeting = () => {
-  return <h2>My First Component</h2>;
-};
-export default Greeting;
-```
+#### React  Remove Boilerpla
 
 ##### Root Component (only one)
 
