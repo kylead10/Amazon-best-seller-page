@@ -1,16 +1,4 @@
-#### React Course
-
-
-
-- ic assets including index.html (page - package-lock.json
-  A snapshot of the entire dependency tree
-
-- README
-  The markdown file where you can share more info about the project for example build instructions and summary
-
-- zoom 175%
-
-#### Remove Boilerplate
+#### React  Remove Boilerplate
 
 - remove src folder
 - create src folder
