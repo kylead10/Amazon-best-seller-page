@@ -2,14 +2,7 @@
 
 
 
-- ic assets including index.html (page . src/index.js is the JavaScript entry point.
-- .gitignore
-  Specifies which files source control (Git) should ignore
-
-- package.json
-  Every Node.js project has a package.json and it contains info about our project, for example list of dependencies and scripts
-
-- package-lock.json
+- ic assets including index.html (page - package-lock.json
   A snapshot of the entire dependency tree
 
 - README
