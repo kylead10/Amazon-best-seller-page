@@ -1,10 +1,6 @@
-# React Fundamentals
-
 #### React Course
 
-[My 
 
-#### Folder Structure
 
 - node_modules
   Contains all dependencies required by the app. Main dependencies also listed in package.json
