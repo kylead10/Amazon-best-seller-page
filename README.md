@@ -1,16 +1,6 @@
 #### React  Remove Boilerplate
 
-- remove src folder
-
-```js
-function Greeting() {
-  return <h2>My First Component</h2>;
-}
-
-// arrow function also works
-
-const Greeting = () => {
-  return <h2>My First Component</h2>;
+2>My First Component</h2>;
 };
 ``ogic
 
