@@ -12,7 +12,7 @@ settings.json
 
 ```json
   "editor.formatOnPaste": true,
-  "editor.formatOnSave": true,
+
   
 - ES7 Snippets
   - rafce (arrow func with export)
