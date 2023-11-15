@@ -12,7 +12,7 @@ index.js
 const Greeting = () => {
   return React.createElement('h2', {}, 'hello world');
 };
-```
+`
 
 ```js
 function Greeting() {
