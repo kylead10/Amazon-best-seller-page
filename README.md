@@ -1,9 +1,7 @@
 ##### Root Component (only one)
 
 
-Module not found: Error: Can't resolve 'path/index.js'
-```
-
+Module not found: Error: 
 Just restart the server
 
 - CTRL + C (stop the server)
