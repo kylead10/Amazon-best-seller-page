@@ -22,8 +22,7 @@ settings.json
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "prettier.singleQuote": true,
-    "prettier.semi": false,
+    "prettier.singleQuote
 ```
 
 - Emmet
