@@ -35,9 +35,6 @@ settings.json
 
 ```json
 "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
-  },
-```
 
 - ES7 Snippets
   - rafce (arrow func with export)
