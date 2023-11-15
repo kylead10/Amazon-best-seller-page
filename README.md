@@ -13,10 +13,7 @@ Just restart the server
 
 - Auto Rename Tag
 - Highlight Matching Tag
-  - customize in settings.json
-- Prettier
-  - format on save
-  - format on paste
+  - 
   - Default Formatter (Prettier - Code formatter)
 
 settings.json
