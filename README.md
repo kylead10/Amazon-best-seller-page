@@ -1,11 +1,3 @@
-- ES7 Snippets
-  - rafce (arrow func with export)
-  - rfce (regular func with export )
-  - same as the file name
-  - react auto import
-    - uncheck
-    - React Snippets › Settings: Import React On Top
-
 #### First Component in Detail
 
 - capital letter
