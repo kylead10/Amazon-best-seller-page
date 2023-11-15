@@ -1,7 +1,4 @@
-##### Root Component (only one)
-
-
-Module not found: Error: 
+##### Root Component (only one
 Just restart the server
 
 - CTRL + C (stop the server)
