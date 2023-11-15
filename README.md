@@ -9,9 +9,6 @@ Just restart the server
 - CTRL + C (stop the server)
 - "npm start" (start the dev server)
 
-#### Extensions and settings.json
-
-- Auto Rename Tag
 - Highlight Matching Tag
   - 
   - Default Formatter (Prettier - Code formatter)
