@@ -19,7 +19,7 @@ settings.json
 settings.json
 
 ```json
-"emmet.includeLanguages": {
+"emmet.includeLang
 
 - ES7 Snippets
   - rafce (arrow func with export)
