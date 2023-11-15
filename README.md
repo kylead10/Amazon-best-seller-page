@@ -14,8 +14,6 @@ settings.json
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": 
-- Emmet
-
 settings.jso
 "emmet.includeLang
 
