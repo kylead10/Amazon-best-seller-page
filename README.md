@@ -13,10 +13,7 @@ settings.json
 ```json
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "prettier.singleQuote
-```
-
+  "editor.defaultFormatter": 
 - Emmet
 
 settings.json
