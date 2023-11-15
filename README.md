@@ -16,9 +16,7 @@ settings.json
   "editor.defaultFormatter": 
 - Emmet
 
-settings.json
-
-```json
+settings.jso
 "emmet.includeLang
 
 - ES7 Snippets
