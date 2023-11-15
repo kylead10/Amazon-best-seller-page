@@ -13,8 +13,7 @@ settings.json
 ```json
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": 
-
+  
 - ES7 Snippets
   - rafce (arrow func with export)
   - rfce (regular func with export )
