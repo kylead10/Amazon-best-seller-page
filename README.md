@@ -15,7 +15,6 @@ settings.json
   "editor.formatOnSave": true,
   "editor.defaultFormatter": 
 settings.jso
-"emmet.includeLang
 
 - ES7 Snippets
   - rafce (arrow func with export)
