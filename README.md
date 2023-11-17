@@ -18,14 +18,6 @@
     <label for='name'>Name</label>
     <input readonly id='name' />
 </div>
-```
-
-- className instead of class
-
-```js
-return <div className='someValue'>hello</div>;
-```
-
 - close every element
 
 ```js
