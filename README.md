@@ -6,10 +6,6 @@
   - to make our lives easier
   - calling function under the hood
 
-index.js
-
-```js
-const Greeting = 
 
 ```js
 function Greeting() {
