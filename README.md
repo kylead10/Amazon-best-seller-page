@@ -31,7 +31,6 @@ const Greeting = () => {
 ```js
 return <React.Fragment>...rest of the return</React.Fragment>;
 
-// shorthand
 
 return <>...rest of the return</>;
 ```
