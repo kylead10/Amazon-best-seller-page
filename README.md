@@ -10,8 +10,7 @@ index.js
 
 ```js
 const Greeting = () => {
-  return React.createElement('h2', {}, 'hello w
-`
+  return React.createElement('h2', {}, 
 
 ```js
 function Greeting() {
