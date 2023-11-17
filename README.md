@@ -18,14 +18,7 @@
     <label for='name'>Name</label>
     <input readonly id='name' />
 </div>
-- close every element
-
-```js
-return <img />;
-// or
-return <input />;
-```
-
+- close every elemen
 - formatting
   - opening tag in the same line as return or ()
     </>
