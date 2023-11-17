@@ -11,16 +11,6 @@
     </div>
   );
 }
-
-- camelCase property naming convention
-
-```js
-return (
-  <div tabIndex={1}>
-    <button onClick={myFunction}>click me</button>
-    <label htmlFor='name'>Name</label>
-    <input readOnly={true} id='name' />
-  </div>
 )
 // in html
 <div tabindex="1">
