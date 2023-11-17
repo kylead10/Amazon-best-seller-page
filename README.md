@@ -7,9 +7,7 @@
   - calling function under the hood
 
 
-```js
-function Greeting() {
-  return (
+`
     <div>
       <h2>hello world</h2>
     </div>
