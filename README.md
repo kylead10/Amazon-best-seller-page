@@ -12,27 +12,6 @@
   );
 }
 
-const Greeting = () => {
-  return React.createElement(
-    'div',
-    {},
-    React.createElement('h2', {}, 'hello world')
-  );
-};
-```
-
-#### JSX Rules
-
-- return single element (one parent element)
-
-  - semantics section/article
-  - Fragment - let's us group elements without adding extra nodes
-
-```js
-return <React.Fragment>...rest of the return</React.Fragment>;
-return <>...rest of the return</>;
-```
-
 - camelCase property naming convention
 
 ```js
