@@ -9,8 +9,7 @@
 index.js
 
 ```js
-const Greeting = () => {
-  return React.createElement('h2', {}, 
+const Greeting = 
 
 ```js
 function Greeting() {
