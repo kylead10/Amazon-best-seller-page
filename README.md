@@ -6,8 +6,6 @@
   - to make our lives easier
   - calling function under the hood
 
-
-`
     <div>
       <h2>hello world</h2>
     </div>
