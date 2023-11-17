@@ -26,20 +26,6 @@
 }
 ```
 
-#### Nest Components
-
-```js
-function Greeting() {
-  return (
-    <div>
-      <Person />
-      <Message />
-    </div>
-  );
-}
-
-const Person = () => <h2>john doe</h2>;
-const Message = () => {
   return <p>this is my message</p>;
 };
 ```
@@ -1105,7 +1091,6 @@ const Book = (props) => {
 
 - two fixes
 - first option - setup wrapper
-
 ```js
 const Book = (props) => {
   const { img, title, author, getBook, id } = props;
@@ -1371,89 +1356,7 @@ function BookList() {
 }
 ```
 
-index.css
 
-```css
-h1 {
-  text-align: center;
-  margin-top: 4rem;
-  text-transform: capitalize;
-}
-```
-
-public/index.html
-
-```html
-<title>Best Sellers</title>
-```
-
-#### Build Production Application
-
-- stop the dev server "ctrl + c"
-- run "npm run build"
-- build folder gets created
-
-#### Netlify
-
-- sign up
-- add new site/deploy manually
-- choose build folder
-- rename site - site settings/change site name
-
-#### Create-React-App Boilerplate (src)
-
-- index.js
-
-```js
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-
-// styles (typically global)
-import './index.css';
-
-// convention to name it App and setup in a separate file
-import App from './App';
-// import report web vitals
-import reportWebVitals from './reportWebVitals';
-
-// StrictMode
-
-// StrictMode is a tool for highlighting potential problems in an application.Activates additional checks and warnings for its descendants.Runs only in Development, does not impact the production build. RENDERS TWICE !!! Possible to remove.
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
-```
-
-- remove in src
-
-  - setupTests.js
-  - reportWebVitals.js
-  - App.test.js
-
-- be careful with multiple css files
-
-App.js
-
-```js
-function App() {
-  return <h1>backroads app</h1>;
-}
-
-export default App;
-```
-
-- remove
-  - remove logo.svg
-  - App.css
 
 #### Vite Doc(Vite)
 #### Vite Setup
