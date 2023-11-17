@@ -10,8 +10,7 @@ index.js
 
 ```js
 const Greeting = () => {
-  return React.createElement('h2', {}, 'hello world');
-};
+  return React.createElement('h2', {}, 'hello w
 `
 
 ```js
