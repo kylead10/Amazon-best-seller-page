@@ -539,21 +539,7 @@ function BookList() {
     </section>
   );
 }
-const Book = (props) => {
-  console.log(props);
-  return (
-    <article className='book'>
-      <img src={props.img} alt={props.title} />
-      <h2>{props.title}</h2>
-      <h4>{props.author} </h4>
-    </article>
-  );
-};
-```
-
-#### Access Props - Multiple Approaches
-
-- there is no right or wrong - again preference !!!
+ain preference !!!
 
 - Destructuring (object)
   [JS Nuggets - Destructuring (object)](https://www.youtube.com/watch?v=i4vhNKihfto&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=8&t=1s)
