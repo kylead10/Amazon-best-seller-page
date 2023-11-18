@@ -3,8 +3,7 @@
 - capital letter
 - must return something
 - JSX syntax (return html)
-  - to make our lives easier
-    <div>
+  - to make our lives easie
   );
 }
 
