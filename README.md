@@ -1,9 +1,6 @@
 #### First Component in Detail
 
 - capital letter
-- must return something
-
-
 <div tabindex="1">
 </div>
 - close every element
