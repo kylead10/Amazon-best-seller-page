@@ -7,8 +7,7 @@
     <div>
   );
 }
-)
-// in html
+
 <div tabindex="1">
     <button onclick="myFunction()">click me</button>
     <label for='name'>Name</label>
