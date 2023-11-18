@@ -32,8 +32,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<BookList />);
 ```
 
-- in search engine type - 'amazon best selling books'
-  [Amazon Best Sellers](https://www.amazon.com/Best-Sellers-Books/zgbs/books/)
+- (https://www.amazon.com/Best-Sellers-Books/zgbs/books/)
 - DON'T NEED TO BUY ANYTHING !!!
 - NOT AN AFFILIATE LINK !!!!
 - choose a book
