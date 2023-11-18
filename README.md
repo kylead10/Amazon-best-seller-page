@@ -10,7 +10,6 @@
 </div>
 - close every elemen
 - formatting
-  - opening tag in the same line as return or ()
     </>
   );
 }
