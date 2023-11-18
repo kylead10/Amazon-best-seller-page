@@ -2,7 +2,7 @@
 
 - capital letter
 - must return something
-- JSX syntax (return html)
+
 
 <div tabindex="1">
 </div>
