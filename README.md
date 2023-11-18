@@ -12,7 +12,6 @@
     </>
   );
 }
-```
 
   return <p>this is my message</p>;
 };
