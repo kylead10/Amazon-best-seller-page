@@ -1,11 +1,5 @@
 #### First Component in Detail
 
-- capital letter
-<div tabindex="1">
-```js
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-
 function BookList() {
   return (
     <section>
