@@ -16,11 +16,7 @@
 
   return <p>this is my message</p>;
 };
-```
-
-#### Book List
-
-- setup structure
+``
 
 ```js
 import React from 'react';
