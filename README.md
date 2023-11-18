@@ -5,7 +5,6 @@
 - JSX syntax (return html)
   - to make our lives easier
     <div>
-      <h2>hello world</h2>
     </div>
   );
 }
