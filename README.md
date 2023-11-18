@@ -2,16 +2,6 @@
 
 - capital letter
 <div tabindex="1">
-</div>
-- close every element
-    </>
-  );
-}
-
-  return <p>this is my message</p>;
-};
-``
-
 ```js
 import React from 'react';
 import ReactDOM from 'react-dom/client';
