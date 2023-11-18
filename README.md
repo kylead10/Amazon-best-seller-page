@@ -8,7 +8,6 @@
 }
 
 <div tabindex="1">
-    <label for='name'>Name</label>
     <input readonly id='name' />
 </div>
 - close every elemen
