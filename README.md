@@ -8,7 +8,6 @@
 }
 
 <div tabindex="1">
-    <button onclick="myFunction()">click me</button>
     <label for='name'>Name</label>
     <input readonly id='name' />
 </div>
