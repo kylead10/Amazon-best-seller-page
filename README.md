@@ -3,7 +3,6 @@
 - capital letter
 - must return something
 - JSX syntax (return html)
-  - to make our lives easie
   );
 }
 
