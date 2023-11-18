@@ -7,7 +7,6 @@
 }
 
 <div tabindex="1">
-    <input readonly id='name' />
 </div>
 - close every elemen
 - formatting
