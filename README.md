@@ -20,12 +20,6 @@
 };
 ```
 
-#### React Developer Tools
-
-- top right corner
-- more tools/extensions
-- open chrome web store
-
 #### Book List
 
 - setup structure
