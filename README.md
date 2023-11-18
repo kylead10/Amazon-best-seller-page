@@ -8,8 +8,7 @@
 
 <div tabindex="1">
 </div>
-- close every elemen
-- formatting
+- close every element
     </>
   );
 }
