@@ -5,7 +5,6 @@
 - JSX syntax (return html)
   - to make our lives easier
     <div>
-    </div>
   );
 }
 )
