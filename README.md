@@ -1,10 +1,7 @@
 
 - (https://www.amazon.com/Best-Sellers-Books/zgbs/books/)
 - DON'T NEED TO BUY ANYTHING !!!
-- NOT AN AFFILIATE LINK !!!!
-- choose a book
-- copy image, title and author
-
+- 
 ```js
 import React from 'react';
 import ReactDOM from 'react-dom/client
