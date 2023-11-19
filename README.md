@@ -1,11 +1,5 @@
 #### First Component in Detail
 
-function BookList() {
-  return (
-    <section>
-  );
-}
-
 const Book = () => {
   return (
     <article>
