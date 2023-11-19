@@ -3,8 +3,6 @@
 function BookList() {
   return (
     <section>
-      <Book />
-      <Book />
   );
 }
 
