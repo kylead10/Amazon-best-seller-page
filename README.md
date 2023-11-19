@@ -1,6 +1,5 @@
 
 - (https://www.amazon.com/Best-Sellers-Books/zgbs/books/)
-- DON'T NEED TO BUY ANYTHING !!!
 - 
 ```js
 import React from 'react';
