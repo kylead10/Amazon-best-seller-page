@@ -1,11 +1,3 @@
-#### First Component in Detail
-
-const Book = () => {
-  return (
-    <article>
-      <Image />
-    </article>
-  );
 
 - (https://www.amazon.com/Best-Sellers-Books/zgbs/books/)
 - DON'T NEED TO BUY ANYTHING !!!
