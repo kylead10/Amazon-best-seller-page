@@ -13,8 +13,6 @@ const Book = () => {
     <article className='book'>
       <Image />
       <Title />
-      <Author />
-    </article>
   );
 };
 
