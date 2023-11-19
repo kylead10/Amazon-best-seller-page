@@ -5,7 +5,6 @@ const Book = () => {
     <article>
       <Image />
       <Title />
-      <Author />
     </article>
   );
 
