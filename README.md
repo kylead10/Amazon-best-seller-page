@@ -4,7 +4,6 @@ const Book = () => {
   return (
     <article>
       <Image />
-      <Title />
     </article>
   );
 
