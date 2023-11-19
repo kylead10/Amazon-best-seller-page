@@ -11,7 +11,6 @@ import ReactDOM from 'react-dom/client
 const Book = () => {
   return (
     <article className='book'>
-      <Image />
   );
 };
 
