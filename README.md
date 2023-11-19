@@ -8,15 +8,7 @@ const Book = () => {
       <Author />
     </article>
   );
-};
 
-const Image = () => <h2>image placeholder</h2>;
-const Title = () => {
-  return <h2>Book Title</h2>;
-};
-const Author = () => <h4>Author</h4>;
-
-const root = ReactDOM.createRoot(document.getElementById('root')
 - (https://www.amazon.com/Best-Sellers-Books/zgbs/books/)
 - DON'T NEED TO BUY ANYTHING !!!
 - NOT AN AFFILIATE LINK !!!!
