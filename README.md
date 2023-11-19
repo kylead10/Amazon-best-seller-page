@@ -5,9 +5,6 @@ function BookList() {
     <section>
       <Book />
       <Book />
-      <Book />
-      <Book />
-    </section>
   );
 }
 
