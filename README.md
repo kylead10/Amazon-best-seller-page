@@ -36,13 +36,7 @@ const root = ReactDOM.createRoot(document.getElementById('root')
 
 ```js
 import React from 'react';
-import ReactDOM from 'react-dom/client';
-
-function BookList() {
-  return (
-    <section>
-      <Book />
-      <Book />
+import ReactDOM from 'react-dom/client
       <Book />
       <Book />
     </section>
