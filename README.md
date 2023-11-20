@@ -11,10 +11,7 @@ root.render(<BookList />);
 #### CSS
 body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  background: #f1f5f8;
-  color: #222;
-}
+    Oxygen, Ubuntu, Cantarell, 'Open Sans
 ```
 
 - import file and add classes
