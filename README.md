@@ -1,8 +1,4 @@
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-- import file and add classes
-
-```js
 import './index.css';
 
 function BookList() {
