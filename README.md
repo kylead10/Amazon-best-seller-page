@@ -7,13 +7,6 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(<BookList />);
 ```
-
-#### CSS
-body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-    Oxygen, Ubuntu, Cantarell, 'Open Sans
-```
-
 - import file and add classes
 
 ```js
