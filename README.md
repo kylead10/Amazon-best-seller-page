@@ -3,9 +3,6 @@
 };
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-
-root.render(<BookList />);
-```
 - import file and add classes
 
 ```js
