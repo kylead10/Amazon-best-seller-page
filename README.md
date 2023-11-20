@@ -12,12 +12,6 @@ root.render(<BookList />);
 
 - create index.css in src
 
-```css
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
 body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
