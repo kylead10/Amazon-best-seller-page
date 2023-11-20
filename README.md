@@ -1,6 +1,3 @@
-```
-  return <h2>Interesting Facts For Curious Minds</h2>;
-};
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 - import file and add classes
