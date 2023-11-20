@@ -1,6 +1,5 @@
 
-- (https://www.amazon.com/Best-Sellers-Books/zgbs/books/)
-- 
+- (https://www.amazon.com/Best-Sellers-Book
 ```
   return <h2>Interesting Facts For Curious Minds</h2>;
 };
