@@ -1,7 +1,6 @@
 ```
   return <h2>Interesting Facts For Curious Minds</h2>;
 };
-const Author = () => <h4>Jordan Moore </h4>;
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
