@@ -6,7 +6,6 @@ function BookList() {
     <section className='booklist'>
       <Book />
       <Book />
-      <Book />
     </section>
   );
 }
