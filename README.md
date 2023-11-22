@@ -1,34 +1,5 @@
 
-  );
-};
-     
-cos)
-- if you have console.log(props) - it won't be defined
 
-```js
-const Book = ({ img, title, author }) => {
-  return (
-    <article className='book'>
-      <img src={img} alt={title} />
-      <h2>{title}</h2>
-      <h4>{author} </h4>
-    </article>
-  );
-};
-```
-
-#### Children Prop
-
-- everything we render between component tags
-- during the course we will mostly use it Context API
-- special prop, has to be "children"
-- can place anywhere in JSX
-
-```js
-function BookList() {
-  return (
-    <section className='booklist'>
-      <Book
         author={firstBook.author}
         title={firstBook.title}
         img={firstBook.img}
