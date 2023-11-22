@@ -1,36 +1,4 @@
 
-
-```js
-
-        const { img, title, author, id } = book;
-        return <Book book={book} key={id} />;
-      })}
-    </section>
-  );
-}
-```
-
-- you will see index,but it's not advised if the list is changing
-
-```js
-function BookList() {
-  return (
-    <section className='booklist'>
-      {books.map((book, index) => {
-        console.log(book);
-        const { img, title, author, id } = book;
-        return <Book book={book} key={index} />;
-      })}
-    </section>
-  );
-}
-```
-
-#### Pass The Entire Object
-
-- render component
-- pass entire object
-- Destructuring (object)
   [JS Nuggets - Destructuring (object)](https://www.youtube.com/watch?v=i4vhNKihfto&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=8&t=1s)
 
 ```js
