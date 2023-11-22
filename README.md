@@ -1,34 +1,7 @@
 
   );
 };
-      <h4>{props.author} </h4>
-    </article>
-  );
-};
-```
-        author={firstBook.author}
-        title={firstBook.title}
-        img={firstBook.img}
-      />
-      <Book
-        author={secondBook.author}
-        title={secondBook.title}
-        img={secondBook.img}
-      />
-    </section>
-  );
-}
-ain preference !!!
-
-- Destructuring (object)
-  [JS Nuggets - Destructuring (object)](https://www.youtube.com/watch?v=i4vhNKihfto&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=8&t=1s)
-
-- destructuring in Vanilla JS
-- saves time/typing
-- pull out the properties
-- don't need to reference object anymore
-
-```js
+     
 const someObject = {
   name: 'john',
   job: 'developer',
