@@ -1,31 +1,7 @@
 
 
 ```js
-function BookList() {
-  return <section className='booklist'>{books}</section>;
-}
-```
 
-- map - creates a new array from calling a function for every array element.
-
-```js
-const names = ['john', 'peter', 'susan'];
-const newNames = names.map((name) => {
-    id: 1,
-  },
-  {
-    author: 'James Clear',
-    title: 'Atomic Habits',
-    img: 'https://images-na.ssl-images-amazon.com/images/I/81wgcld4wxL._AC_UL900_SR900,600_.jpg',
-    id: 2,
-  },
-];
-
-function BookList() {
-  return (
-    <section className='booklist'>
-      {books.map((book) => {
-        console.log(book);
         const { img, title, author, id } = book;
         return <Book book={book} key={id} />;
       })}
