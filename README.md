@@ -26,26 +26,7 @@ const Book = () => {
 }
 
 @media screen and (min-width: 768px) {
-  .booklist {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-.book {
-  background: #fff;
-  border-radius: 1rem;
-  padding: 2rem;
-  text-align: center;
-}
-.book img {
-  width: 100%;
-  object-fit: cover;
-}
-.book h2 {
-  margin-top: 1rem;
-  font-size: 1rem;
-}
-```
-
+  .b
 #### Local Images (Public Folder)
 
 - Optional Video !!!
