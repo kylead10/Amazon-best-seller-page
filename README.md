@@ -1,29 +1,6 @@
 
 - FOR THE MOST PART, MULTIPLE APPROACHES AVAILABLE !!!
-- AS LONG AS THE RESULT IS THE SAME, REALLY COMES DOWN TO PREFERENCE !!!!
-
-#### JSX - Javascript
-
-- refactor to single book component (personal preference)
-- remove inline css
-
-```js
-const Book = () => {
-  return (
-    <article className='book'>
-      <img
-        src='./images/book-1.jpg'
-        alt='Interesting Facts For Curious Minds'
-      />
-      <h2>Interesting Facts For Curious Minds</h2>
-      <h4>Jordan Moore </h4>
-    </article>
-  );
-};
-```
-
-```css
-.book h4 {
+- AS LONG AS THE RESULT IS THE SAME, REAL
   color: #617d98;
   font-size: 0.75rem;
   margin-top: 0.5rem;
