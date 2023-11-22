@@ -5,29 +5,7 @@ function BookList() {
   return (
     <
 
-const Book = () => {
-  return (
-    <article className='book'>
-      <Image />
-    </article>
-  );
-};
-```
 
-- complete css
-
-```css
-.booklist {
-  width: 90vw;
-  max-width: 1170px;
-  margin: 5rem auto;
-  display: grid;
-  gap: 2rem;
-}
-
-@media screen and (min-width: 768px) {
-  .b
-#### Local Images (Public Folder)
 
 - Optional Video !!!
 
