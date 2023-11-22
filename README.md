@@ -4,32 +4,6 @@ import './index.css';
 function B
 ```
 
-- whatever assets we place in public - instantly available
-- domain(localhost)/asset
-
-#### JSX - CSS (inline styles)
-
-- style prop
-- {} in JSX means going back to JS Land
-- value is an object with key/value pairs - capitalized and with ''
-
-```js
-const Author = () => (
-  <h4 style={{ color: '#617d98', fontSize: '0.75rem', marginTop: '0.5rem' }}>
-    Jordan Moore
-  </h4>
-);
-```
-
-- css rules still apply (inline vs external css)
-
-```css
-.book h4 {
-  /* won't work */
-  color: red;
-  /* will work */
-  letter-spacing: 2px;
-}
 ```
 
 - external libraries use inline css,
