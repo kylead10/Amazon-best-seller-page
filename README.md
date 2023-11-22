@@ -1,30 +1,7 @@
 
 import './index.css';
 
-function BookList() {
-  return (
-    <
-
-
-
-- Optional Video !!!
-
-- external images (hosted on different server) - just need an url
-- local images (public folder) - less performant
-- local images (src folder) - better solution for assets,
-  since under the hood they get optimized.
-
-- save image (Save Image As....)
-- create images folder in public
-- copy/paste image
-- rename (optional)
-- replace url in the src - './images/imageName.extension'
-- './' because assets are on the same server
-
-```js
-const Image = () => (
-  <img src='./images/book-1.jpg' alt='Interesting Facts For Curious Minds' />
-);
+function B
 ```
 
 - whatever assets we place in public - instantly available
