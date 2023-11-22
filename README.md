@@ -2,34 +2,7 @@
   );
 };
      
-const someObject = {
-  name: 'john',
-  job: 'developer',
-  location: 'florida',
-};
-
-console.log(someObject.name);
-const { name, job } = someObject;
-console.log(job);
-```
-
-- no need for all the props.propName
-- destructure inside component
-
-```js
-const Book = (props) => {
-  const { img, title, author } = props;
-  return (
-    <article className='book'>
-      <img src={img} alt={title} />
-      <h2>{title}</h2>
-      <h4>{author} </h4>
-    </article>
-  );
-};
-```
-
-- destructure in function parameters (in our case props)
+cos)
 - if you have console.log(props) - it won't be defined
 
 ```js
