@@ -1,35 +1,5 @@
 
       {children}
-    </article>
-  );
-};
-```
-
-- optional
-
-```css
-@media screen and (min-width: 768px) {
-  .booklist {
-    grid-template-columns: repeat(3, 1fr);
-    align-items: start;
-  }
-}
-.book p {
-  margin: 1rem 0 0.5rem;
-}
-```
-
-#### Simple List
-
-- [Javascript Nuggets - Map ](https://www.youtube.com/watch?v=80KX6aD9R7M&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=1)
-
-- refactor
-
-```js
-const books = [
-  {
-    author: 'Jordan Moore',
-    title: 'Interesting Facts For Curious Minds',
     img: './images/book-1.jpg',
   },
   {
