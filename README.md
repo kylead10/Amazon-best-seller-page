@@ -1,30 +1,6 @@
 
   );
 };
-```
-
-  );
-};
-```
-
-```js
-// parameters
-const someFunc = (param1, param2) => {
-  console.log(param1, param2);
-};
-// arguments
-someFunc('job', 'developer');
-```
-
-```js
-const Book = (props) => {
-  console.log(props);
-  return (
-    <article className='book'>
-      <img src={img} alt={title} />
-      <h2>{title}</h2>
-      <h4>{author} </h4>
-      {console.log(props)}
     </article>
   );
 };
