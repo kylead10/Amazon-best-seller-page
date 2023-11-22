@@ -39,65 +39,6 @@ function BookList() {
 ```js
 const names = ['john', 'peter', 'susan'];
 const newNames = names.map((name) => {
-  console.log(name);
-  return <h1>{name}</h1>;
-});
-
-function BookList() {
-  return <section className='booklist'>{newNames}</section>;
-}
-```
-
-#### Proper List
-
-- remove names and newNames
-
-```js
-function BookList() {
-  return (
-    <section className='booklist'>
-      {books.map((book) => {
-        console.log(book);
-
-        // return 'hello';
-        return (
-          <div>
-            <h2>{book.title}</h2>
-          </div>
-        );
-      })}
-    </section>
-  );
-}
-```
-
-- render component
-- pass properties one by one
-
-```js
-function BookList() {
-  return (
-    <section className='booklist'>
-      {books.map((book) => {
-        console.log(book);
-        const { img, title, author } = book;
-        return <Book img={img} title={title} author={author} />;
-      })}
-    </section>
-  );
-}
-```
-
-#### Key Prop
-
-- typically it's going to be id
-
-```js
-const books = [
-  {
-    author: 'Jordan Moore',
-    title: 'Interesting Facts For Curious Minds',
-    img: './images/book-1.jpg',
     id: 1,
   },
   {
