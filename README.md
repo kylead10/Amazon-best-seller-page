@@ -1,1 +1,1 @@
-this is a clonwe of AMazon
+this is a clonwe of Amazon website best 
