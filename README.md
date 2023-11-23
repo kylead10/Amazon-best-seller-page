@@ -1,53 +1,5 @@
 
-  return (
-    <section>
-      {/* add onSubmit Event Handler */}
-      <form onSubmit={handleFormSubmission}>
-        <h2>Typical Form</h2>
-        <input
-          type='text'
-          name='example'
-          onChange={handleFormInput}
-          style={{ margin: '1rem 0' }}
-        />
-        {/* add button with type='submit' */}
-        <button type='submit'>submit form</button>
-      </form>
-      <button onClick={handleButtonClick}>click me</button>
-    </section>
-  );
-};
-```
 
-- alternative approach
-
-```js
-<button type='submit' onClick={handleFormSubmission}>
-  submit form
-</button>
-```
-
-#### Mind Grenade
-
-- alternative approach
-- pass anonymous function (in this case arrow function)
-- one liner - less code
-
-```js
-const EventExamples = () => {
-  return (
-    <section>
-      <button onClick={() => console.log('hello there')}>click me</button>
-    </section>
-  );
-};
-```
-
-- also can access event object
-
-```js
-const EventExamples = () => {
-  return (
     <section>
       <form>
         <h2>Typical Form</h2>
