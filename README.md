@@ -1,1 +1,1 @@
-this is a clonwe of Amazon website best 
+this is a clonwe of Amazon website best seller page
