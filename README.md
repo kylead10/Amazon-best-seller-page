@@ -1,1 +1,1 @@
-this is a clone of Amazon's website best seller wpage.
+this is a clone of Amazon's website best seller wepage.
